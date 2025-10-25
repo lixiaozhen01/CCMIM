@@ -9,7 +9,7 @@ Experimental results show that the CCMIM model outperforms traditional methods a
 In summary, the CCMIM model provides an effective solution for concrete defect detection.
 
 
-![](Figure/f22.jpg)
+![result](https://github.com/lixiaozhen01/CCMIM/raw/main/Figure/f22.jpg)
 
 
 
